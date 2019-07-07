@@ -1,5 +1,9 @@
 # Flutter Imc Calculator
 
+##  DEMO
+
+![DEMO](img/calculate_imc.png)
+
 A new Flutter project.
 
 ## Getting Started
